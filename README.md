@@ -5,3 +5,7 @@
 
 ### Speakers:
 
+Samir Canning(ETH)
+Yujiro Kawamata
+Sho Tanimoto 
+Yongnam Lee
