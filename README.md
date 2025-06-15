@@ -22,6 +22,6 @@ Longting Wu(Sustech)
 
 Feinuo Zhang(Fudan)
 
-....
+More speakers to be added....
 
 
