@@ -10,6 +10,8 @@ Qingyuan Jiang(HKUST)
 
 Yujiro Kawamata(Tokyo)
 
+Radu Laza*(StonyBrook)
+
 Yongnam Lee(IBS)
 
 Yucheng Liu(ChongQing)
@@ -19,4 +21,5 @@ Sho Tanimoto(Nagoya)
 Longting Wu(Sustech)
 
 Feinuo Zhang(Fudan)
+
 
