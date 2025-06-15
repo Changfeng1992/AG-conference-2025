@@ -3,9 +3,4 @@
 
 ### Organizers: Jun Li (Fudan University), Zhiyuan Li (Fudan University),Fei Si(Xi’an Jiaotong University,local) 
 
-### Speakers:
-
-Samir Canning(ETH)
-Yujiro Kawamata
-Sho Tanimoto 
-Yongnam Lee
+### Speakers: Samir Canning(ETH) 
