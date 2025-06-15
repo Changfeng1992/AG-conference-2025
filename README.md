@@ -6,13 +6,13 @@
 ### Speakers:
 Samir Canning(ETH) 
 
-Qingyuan Jiang
+Qingyuan Jiang(HKST)
 
 Yujiro Kawamata
 
-Yongnam Lee
+Yongnam Lee(IBS)
 
-Yucheng Liu
+Yucheng Liu(ChongQing)
 
 Sho Tanimoto
 
