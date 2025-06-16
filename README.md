@@ -18,6 +18,8 @@ Yucheng Liu(ChongQing)
 
 Sho Tanimoto(Nagoya)
 
+Zhiyu Tian(Peking)
+
 Longting Wu(Sustech)
 
 Feinuo Zhang(Fudan)
