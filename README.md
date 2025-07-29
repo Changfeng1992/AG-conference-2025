@@ -4,6 +4,8 @@
 ### Organizers: Jun Li (Fudan University), Zhiyuan Li (Fudan University),Fei Si(Xi’an Jiaotong University,local) 
 
 ### Speakers:
+Arnaud Beaville(Université Côte d'Azur)
+ 
 Samir Canning(ETH) 
 
 Qingyuan Jiang(HKUST)
