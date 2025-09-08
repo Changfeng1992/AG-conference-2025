@@ -10,9 +10,9 @@ Samir Canning(ETH)
 
 Qingyuan Jiang(HKUST)
 
-Yujiro Kawamata(Tokyo)
+Chen Jiang(Fudan)
 
-Radu Laza*(StonyBrook)
+Yujiro Kawamata(Tokyo)
 
 Yongnam Lee(IBS)
 
@@ -25,6 +25,8 @@ Zhiyu Tian(Peking)
 Longting Wu(Sustech)
 
 Feinuo Zhang(Fudan)
+
+Haitao Zou(Bielefeld)
 
 More speakers to be added....
 
