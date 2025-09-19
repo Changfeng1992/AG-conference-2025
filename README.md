@@ -4,7 +4,7 @@
 ### Organizers: Jun Li (Fudan University), Zhiyuan Li (Fudan University),Fei Si(Xi’an Jiaotong University,local) 
 
 ### Speakers:
-Arnaud Beaville(Université Côte d'Azur)
+Arnaud Beauville(Université Côte d'Azur)
  
 Samir Canning(ETH) 
 
@@ -31,6 +31,17 @@ Feinuo Zhang(Fudan)
 Haitao Zou(Bielefeld)
 
 ###  Titles and abstracts :
+
+                     Lefschetz property and maximal variation of hyperplane sections
+
+                       Arnaud Beauville(Université Côte d'Azur)
+
+Abstract: Let  X  be a smooth hypersurface in  P^n . Does the family of (smooth) hyperplane sections of  X , up to isomorphism, have maximal dimension  n ? It turns out that this is equivalent to a particular instance of the "weak Lefschetz property" (WLP), a property of graded artinian algebras which has been intensely studied by algebraists. In the talk I will first survey the known results about WLP, then explain the relation with the hyperplane sections problem. This gives a positive answer to that problem for  deg(X) > n , and also for  X  a cubic threefold.
+
+
+
+
+
                                       Fano indices of canonical Fano 3-folds
 
                                             Chen Jiang(Fudan)
