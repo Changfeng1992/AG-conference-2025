@@ -22,7 +22,7 @@ Sho Tanimoto(Nagoya)
 
 Zhiyu Tian(Peking)
 
-Qizheng Yin(Peking)
+Qizheng Yin*(Peking)
 
 Longting Wu(Sustech)
 
