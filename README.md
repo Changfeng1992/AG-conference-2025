@@ -89,7 +89,7 @@ Abstract: The geometry of moduli spaces of one-dimensional sheaves on the projec
 
                          Moduli of one-dimensional sheaves: stabilization phenomena and pathologies
 
-                          Feinuo Zhang(Fudan)
+                                      Feinuo Zhang(Fudan)
 
 Abstract: Moduli spaces of sheaves on surfaces play an important role in algebraic geometry, yet many natural questions about them remain open. Motivated by stabilization phenomena for moduli spaces of torsion free sheaves, we explore the behavior of the moduli space of one-dimensional sheaves supported on sufficiently positive divisors on a surface. In this talk, I will report recent progress on the Betti and Picard numbers of such moduli spaces, along with unexpected examples of reducible moduli spaces that arise for certain surfaces of general type. This talk is based on joint work arXiv:2406.10004 with Weite Pi, Junliang Shen, and Fei Si, and arXiv:2503.06153 with Fei Si.
 
