@@ -49,7 +49,13 @@ Abstract: Let  X  be a smooth hypersurface in  P^n . Does the family of (smooth)
 Abstract: We show that the Q-Fano index of a canonical weak Fano 3-fold is at most 66. This upper bound is optimal and gives an affirmative answer to a conjecture of Chengxi Wang in dimension 3. During the proof, we establish a new Riemmann--Roch formula for canonical 3-folds and provide a detailed study of non-isolated singularities on canonical Fano 3-folds, concerning both their local and global properties. Our proof also involves a Kawamata--Miyaoka type inequality and geometry of foliations of rank 2 on canonical Fano 3-folds. This is a joint work with Haidong Liu.
 
 
-
+                             On NC deformations of sheaves and NC moduli space
+                                    
+                                     Yujiro Kawamata(Tokyo)
+ 
+ Abstract: The NC deformations of sheaves have versal families. But calculating the versal deformations is difficult. We review some cases where the versal deformations are determined and applications.
+I will also take Grassmann variety as an easy example, and show that even a global moduli space exists as an NC scheme.
+                             
 
                                 K3 tails in the KSBA moduli of Kunev surfaces
 
