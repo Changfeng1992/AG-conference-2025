@@ -40,13 +40,28 @@ Abstract: Let  X  be a smooth hypersurface in  P^n . Does the family of (smooth)
 
 
 
+                  Cycles on moduli spaces of curves and abelian varieties
+
+                       Samir Canning(ETH) 
+              
+Abstract: I will explain a surprising connection between non-tautological classes on the moduli space of abelian varieties and tautological relations on the moduli space of curves. The story begins with joint work with Larson and Schmitt on the Gorenstein problem for compact type moduli and joint work with Oprea and Pandharipande on the product loci on moduli spaces of  abelian varieties. I will also discuss recent progress by Iribar López toward extending the story to Noether-Lefschetz loci on the moduli  space of abelian varieties.
 
 
-                                 Fano indices of canonical Fano 3-folds
+
+
+                                Fano indices of canonical Fano 3-folds
 
                                         Chen Jiang(Fudan)
 
 Abstract: We show that the Q-Fano index of a canonical weak Fano 3-fold is at most 66. This upper bound is optimal and gives an affirmative answer to a conjecture of Chengxi Wang in dimension 3. During the proof, we establish a new Riemmann--Roch formula for canonical 3-folds and provide a detailed study of non-isolated singularities on canonical Fano 3-folds, concerning both their local and global properties. Our proof also involves a Kawamata--Miyaoka type inequality and geometry of foliations of rank 2 on canonical Fano 3-folds. This is a joint work with Haidong Liu.
+
+
+                            Grassmannians of Complexes and Instantons on Blowups
+
+                                    Qingyuan Jiang(HKUST)
+
+Abstract:  Recent advances in derived algebraic geometry (DAG) have enabled us to extend Grothendieck’s theory of Grassmannians of sheaves to the broader framework of complexes. In my earlier work, I systematically studied the theory of Grassmannians of complexes, leading in particular to a unified formula for the derived categories of Grassmannians of two-term perfect complexes.
+In this talk, I will examine the representation-theoretic structure underlying this formula via Clifford algebra representations. As an application, I will discuss how this framework provides a positive answer to a question posed by Nakajima and Vafa–Witten regarding the representation-theoretic interpretation of the blowup formula for instanton moduli on surface blowups. This talk is based on joint work with Weiping Li and Yu Zhao.
 
 
                              On NC deformations of sheaves and NC moduli space
