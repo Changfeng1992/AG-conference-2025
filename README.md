@@ -126,5 +126,44 @@ Abstract: The Shafarevich conjecture predicts that families of varieties over nu
 
 
 
+###  Schedule
+
+Oct 11th
+
+9:30-10:15  Registration & 9:30-10:30 
+10:15-10:30  Photos and open ceremony 
+10:30-11:30 & Speaker: Yongnam Lee 
+11:30-14:30 & Lunch and break 
+14:30-15:30 & Speaker: Yucheng Liu 
+15:30-16:00 & Break 
+16:00-17:00 & Speaker: Haitao Zou 
+
+Oct 12th
+
+9:30-10:30 & Speaker: Yujiro Kawamata 
+10:30-11:00 & Break 
+11:00-12:00 & Speaker:  Arnaud Beauville 
+12:00-14:30 & Lunch and break 
+14:30-15:30 & Speaker: Chen Jiang 
+15:30-16:00 & Break 
+16:00-17:00 & Speaker: Sho Tanimoto
+
+Oct 13th free discussion
 
 
+Oct 14th 
+9:30-10:30 & Speaker: Feinuo Zhang 
+10:30-11:00 & Break 
+11:00-12:00 & Speaker: Qizheng Yin\* (TBC) 
+12:00-14:30 & Lunch and break 
+14:30-15:30 & Speaker: Samir Canning 
+15:30-16:00 & Break
+16:00-17:00 & Speaker: Longting Wu 
+
+Oct 15th
+
+9:30-10:30 & Speaker: Zhiyu Tian
+10:30-11:00 & Break
+11:00-12:00 & Speaker: Qingyuan Jiang(Online)
+12:00-14:30 & Lunch and break 
+14:30-17:00 Free discussion} 
