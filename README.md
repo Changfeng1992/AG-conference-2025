@@ -130,7 +130,7 @@ Abstract: The Shafarevich conjecture predicts that families of varieties over nu
 
 Oct 11th
 
-9:30-10:15  Registration & 9:30-10:30 
+9:30-10:15  Registration & 9:30-10:30 \\
 10:15-10:30  Photos and open ceremony 
 10:30-11:30 & Speaker: Yongnam Lee 
 11:30-14:30 & Lunch and break 
